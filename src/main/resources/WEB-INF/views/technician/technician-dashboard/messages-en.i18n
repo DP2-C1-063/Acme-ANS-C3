@@ -1,0 +1,26 @@
+
+
+technician.technician-dashboard.form.title = Technician dashboard
+
+technician.dashboard.form.title.general-indicators = General indicators
+technician.dashboard.form.title.maintenanceRecord-statuses = MaintenanceRecord statuses  
+
+
+technician.dashboard.form.label.recordWithNearestInspection = Maintenance record with the nearest inspection due date
+technician.dashboard.form.label.top5AircraftsWithMostTasks = Top five aircrafts with higher number of tasks in their maintenance records
+
+technician.dashboard.form.label.cost = Cost from last year
+technician.dashboard.form.label.averageEstimatedCostLastYear = The average of the estimated cost of their maintenance records in the last year.
+technician.dashboard.form.label.minimumEstimatedCostLastYear = The minimum of the estimated cost of their maintenance records in the last year.
+technician.dashboard.form.label.maximumEstimatedCostLastYear= The maximum of the estimated cost of their maintenance records in the last year.
+technician.dashboard.form.label.standardDeviationEstimatedCostLastYear=The standard deviation  of the estimated cost of their maintenance records in the last year.
+
+technician.dashboard.form.label.duration = Task Duration
+technician.dashboard.form.label.averageEstimatedDurationTask=The average of the estimated duration of the tasks.
+technician.dashboard.form.label.minimumEstimatedDurationTask= The minimum of the estimated duration of the tasks.
+technician.dashboard.form.label.maximumEstimatedDurationTask=The maximum of the estimated duration of the tasks.
+technician.dashboard.form.label.standardDeviationEstimatedDurationTask=The standard deviation of the estimated duration of the tasks.
+
+technician.dashboard.form.label.maintenanceRecord-statuses = Number maintenance records
+
+technician.dashboard.form.label.general=General Indicators

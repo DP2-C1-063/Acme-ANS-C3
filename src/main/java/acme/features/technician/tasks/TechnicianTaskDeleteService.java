@@ -23,7 +23,8 @@ public class TechnicianTaskDeleteService extends AbstractGuiService<Technician, 
 
 	@Override
 	public void authorise() {
-		boolean status = true;
+		boolean status = false;
+
 		if (super.getRequest().getMethod().equals("POST")) {
 			Task task;
 			int id;
@@ -34,8 +35,7 @@ public class TechnicianTaskDeleteService extends AbstractGuiService<Technician, 
 			task = this.repository.findTaskById(id);
 
 			status = task != null && task.isDraftMode() && task.getTechnician().equals(technician);
-		} else
-			status = false;
+		}
 
 		super.getResponse().setAuthorised(status);
 	}

@@ -1,0 +1,24 @@
+technician.technician-dashboard.form.title = Panel de técnico
+
+technician.dashboard.form.title.general-indicators = Indicadores generales
+technician.dashboard.form.title.maintenanceRecord-statuses = Estados de los registros de mantenimiento  
+
+technician.dashboard.form.label.recordWithNearestInspection = Registro de mantenimiento con la fecha de inspección más próxima
+technician.dashboard.form.label.top5AircraftsWithMostTasks = Las cinco aeronaves con mayor número de tareas en sus registros de mantenimiento
+
+technician.dashboard.form.label.cost =Costes del Último año
+technician.dashboard.form.label.averageEstimatedCostLastYear = Promedio del costo estimado de sus registros de mantenimiento en el último año
+technician.dashboard.form.label.minimumEstimatedCostLastYear = Mínimo del costo estimado de sus registros de mantenimiento en el último año
+technician.dashboard.form.label.maximumEstimatedCostLastYear = Máximo del costo estimado de sus registros de mantenimiento en el último año
+technician.dashboard.form.label.standardDeviationEstimatedCostLastYear = Desviación estándar del costo estimado de sus registros de mantenimiento en el último año
+
+technician.dashboard.form.label.duration = Duración de tareas
+technician.dashboard.form.label.averageEstimatedDurationTask = Promedio de la duración estimada de las tareas
+technician.dashboard.form.label.minimumEstimatedDurationTask = Mínimo de la duración estimada de las tareas
+technician.dashboard.form.label.maximumEstimatedDurationTask = Máximo de la duración estimada de las tareas
+technician.dashboard.form.label.standardDeviationEstimatedDurationTask = Desviación estándar de la duración estimada de las tareas
+
+technician.dashboard.form.label.maintenanceRecord-statuses = Número de registros de mantenimiento
+
+technician.dashboard.form.label.general = Indicadores generales
+

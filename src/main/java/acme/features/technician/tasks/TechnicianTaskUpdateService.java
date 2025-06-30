@@ -33,7 +33,7 @@ public class TechnicianTaskUpdateService extends AbstractGuiService<Technician, 
 			task = this.repository.findTaskById(id);
 
 			status = task != null && task.isDraftMode() && task.getTechnician().equals(technician);
-			;
+
 		} else
 			status = false;
 
