@@ -78,6 +78,7 @@ master.menu.customer.list-bookings = Listar reservas
 master.menu.technician = Técnico
 master.menu.technician.list-maintenance-records = Listar registros de mantenimiento
 master.menu.technician.list-task = Lista de tareas
+master.menu.technician.show-dashboard = Mostrar dashboard
 
 # master.menu.assistanceAgent ############
 

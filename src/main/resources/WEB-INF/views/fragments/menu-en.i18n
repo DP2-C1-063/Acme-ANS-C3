@@ -76,6 +76,7 @@ master.menu.customer.list-bookings = List Bookings
 master.menu.technician = Technician
 master.menu.technician.list-maintenance-records = List Maintenance Records
 master.menu.technician.list-task = List Tasks
+master.menu.technician.show-dashboard = Show dashboard
 
 # master.menu.assistanceAgent ############
 
