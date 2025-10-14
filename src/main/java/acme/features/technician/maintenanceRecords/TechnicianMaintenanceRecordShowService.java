@@ -32,7 +32,10 @@ public class TechnicianMaintenanceRecordShowService extends AbstractGuiService<T
 		id = super.getRequest().getData("id", int.class);
 		mrecord = this.repository.findMaintenanceRecordById(id);
 
-		super.getResponse().setAuthorised(mrecord.getTechnician().equals(technician));
+		if (mrecord == null)
+			super.getResponse().setAuthorised(false);
+		else
+			super.getResponse().setAuthorised(mrecord.getTechnician().equals(technician));
 	}
 
 	@Override

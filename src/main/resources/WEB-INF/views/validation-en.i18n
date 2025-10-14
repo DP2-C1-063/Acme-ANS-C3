@@ -61,6 +61,7 @@ acme.validation.passenger.passport.message = The passport must be 6 to 9 charact
 
 acme.validation.maintenance-record.invalid-moment.message = The maintenance moment must be before the next inspection date
 acme.validation.maintenance-record.no-task.message = The record must have at least one task
+ acme.validation.maintenance-record.published-task.message = The assigned tasks must be published in order to post the maintenance log
 
 acme.validation.published.message = You can not delete this because it is already been published
 
